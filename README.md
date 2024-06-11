@@ -35,6 +35,8 @@ pyrubberband
 pretty_midi
 soundfile
 librosa
+essentia
+note-seq
 ```
 align_dataset.ipynb packages
 ```
